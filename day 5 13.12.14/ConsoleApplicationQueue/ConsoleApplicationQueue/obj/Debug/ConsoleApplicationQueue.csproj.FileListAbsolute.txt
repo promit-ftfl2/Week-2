@@ -1,0 +1,5 @@
+E:\promit\day 5 13.12.14\ConsoleApplicationQueue\ConsoleApplicationQueue\bin\Debug\ConsoleApplicationQueue.exe.config
+E:\promit\day 5 13.12.14\ConsoleApplicationQueue\ConsoleApplicationQueue\bin\Debug\ConsoleApplicationQueue.exe
+E:\promit\day 5 13.12.14\ConsoleApplicationQueue\ConsoleApplicationQueue\bin\Debug\ConsoleApplicationQueue.pdb
+E:\promit\day 5 13.12.14\ConsoleApplicationQueue\ConsoleApplicationQueue\obj\Debug\ConsoleApplicationQueue.exe
+E:\promit\day 5 13.12.14\ConsoleApplicationQueue\ConsoleApplicationQueue\obj\Debug\ConsoleApplicationQueue.pdb

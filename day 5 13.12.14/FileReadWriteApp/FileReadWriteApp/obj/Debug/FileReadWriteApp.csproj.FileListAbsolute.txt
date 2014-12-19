@@ -1,0 +1,12 @@
+E:\Promit\day13.12.14\FileReadWriteApp\FileReadWriteApp\bin\Debug\FileReadWriteApp.exe.config
+E:\Promit\day13.12.14\FileReadWriteApp\FileReadWriteApp\bin\Debug\FileReadWriteApp.exe
+E:\Promit\day13.12.14\FileReadWriteApp\FileReadWriteApp\bin\Debug\FileReadWriteApp.pdb
+E:\Promit\day13.12.14\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.csprojResolveAssemblyReference.cache
+E:\Promit\day13.12.14\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.ReadWriteUIApp.resources
+E:\Promit\day13.12.14\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.Properties.Resources.resources
+E:\Promit\day13.12.14\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.csproj.GenerateResource.Cache
+E:\Promit\day13.12.14\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.exe
+E:\Promit\day13.12.14\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.pdb
+E:\Promit\home13.12.14\FileReadWriteApp\FileReadWriteApp\bin\Debug\FileReadWriteApp.exe.config
+E:\Promit\home13.12.14\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.exe
+E:\Promit\home13.12.14\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.pdb

@@ -1,0 +1,10 @@
+F:\promit\class14.12.14\CsvDllApp\CsvDllApp\bin\Debug\CsvDllApp.exe.config
+F:\promit\class14.12.14\CsvDllApp\CsvDllApp\bin\Debug\CsvDllApp.exe
+F:\promit\class14.12.14\CsvDllApp\CsvDllApp\bin\Debug\CsvDllApp.pdb
+F:\promit\class14.12.14\CsvDllApp\CsvDllApp\bin\Debug\CSVLib.dll
+F:\promit\class14.12.14\CsvDllApp\CsvDllApp\obj\Debug\CsvDllApp.csprojResolveAssemblyReference.cache
+F:\promit\class14.12.14\CsvDllApp\CsvDllApp\obj\Debug\CsvDllApp.StudentNameKeepUI.resources
+F:\promit\class14.12.14\CsvDllApp\CsvDllApp\obj\Debug\CsvDllApp.Properties.Resources.resources
+F:\promit\class14.12.14\CsvDllApp\CsvDllApp\obj\Debug\CsvDllApp.csproj.GenerateResource.Cache
+F:\promit\class14.12.14\CsvDllApp\CsvDllApp\obj\Debug\CsvDllApp.exe
+F:\promit\class14.12.14\CsvDllApp\CsvDllApp\obj\Debug\CsvDllApp.pdb

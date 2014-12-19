@@ -1,0 +1,9 @@
+D:\promit\home16.12.14\StoreEmployeeInfoApp\StoreEmployeeInfoApp\bin\Debug\StoreEmployeeInfoApp.exe.config
+D:\promit\home16.12.14\StoreEmployeeInfoApp\StoreEmployeeInfoApp\obj\Debug\StoreEmployeeInfoApp.csprojResolveAssemblyReference.cache
+D:\promit\home16.12.14\StoreEmployeeInfoApp\StoreEmployeeInfoApp\obj\Debug\StoreEmployeeInfoApp.EmployeeInfoUI.resources
+D:\promit\home16.12.14\StoreEmployeeInfoApp\StoreEmployeeInfoApp\obj\Debug\StoreEmployeeInfoApp.Properties.Resources.resources
+D:\promit\home16.12.14\StoreEmployeeInfoApp\StoreEmployeeInfoApp\obj\Debug\StoreEmployeeInfoApp.csproj.GenerateResource.Cache
+D:\promit\home16.12.14\StoreEmployeeInfoApp\StoreEmployeeInfoApp\bin\Debug\StoreEmployeeInfoApp.exe
+D:\promit\home16.12.14\StoreEmployeeInfoApp\StoreEmployeeInfoApp\bin\Debug\StoreEmployeeInfoApp.pdb
+D:\promit\home16.12.14\StoreEmployeeInfoApp\StoreEmployeeInfoApp\obj\Debug\StoreEmployeeInfoApp.exe
+D:\promit\home16.12.14\StoreEmployeeInfoApp\StoreEmployeeInfoApp\obj\Debug\StoreEmployeeInfoApp.pdb

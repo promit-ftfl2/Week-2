@@ -1,0 +1,5 @@
+E:\promit\day 5 13.12.14\EnQueueConsoleApp\EnQueueConsoleApp\bin\Debug\EnQueueConsoleApp.exe.config
+E:\promit\day 5 13.12.14\EnQueueConsoleApp\EnQueueConsoleApp\bin\Debug\EnQueueConsoleApp.exe
+E:\promit\day 5 13.12.14\EnQueueConsoleApp\EnQueueConsoleApp\bin\Debug\EnQueueConsoleApp.pdb
+E:\promit\day 5 13.12.14\EnQueueConsoleApp\EnQueueConsoleApp\obj\Debug\EnQueueConsoleApp.exe
+E:\promit\day 5 13.12.14\EnQueueConsoleApp\EnQueueConsoleApp\obj\Debug\EnQueueConsoleApp.pdb

@@ -1,0 +1,9 @@
+E:\promit\day 5 13.12.14\DictionaryUIApp\DictionaryUIApp\bin\Debug\DictionaryUIApp.exe.config
+E:\promit\day 5 13.12.14\DictionaryUIApp\DictionaryUIApp\bin\Debug\DictionaryUIApp.exe
+E:\promit\day 5 13.12.14\DictionaryUIApp\DictionaryUIApp\bin\Debug\DictionaryUIApp.pdb
+E:\promit\day 5 13.12.14\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.csprojResolveAssemblyReference.cache
+E:\promit\day 5 13.12.14\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.Form1.resources
+E:\promit\day 5 13.12.14\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.Properties.Resources.resources
+E:\promit\day 5 13.12.14\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.csproj.GenerateResource.Cache
+E:\promit\day 5 13.12.14\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.exe
+E:\promit\day 5 13.12.14\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.pdb

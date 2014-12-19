@@ -1,0 +1,6 @@
+E:\promit\day 5 13.12.14\QueueConsoleApp\QueueConsoleApp\bin\Debug\QueueConsoleApp.exe.config
+E:\promit\day 5 13.12.14\QueueConsoleApp\QueueConsoleApp\bin\Debug\QueueConsoleApp.exe
+E:\promit\day 5 13.12.14\QueueConsoleApp\QueueConsoleApp\bin\Debug\QueueConsoleApp.pdb
+E:\promit\day 5 13.12.14\QueueConsoleApp\QueueConsoleApp\obj\Debug\QueueConsoleApp.csprojResolveAssemblyReference.cache
+E:\promit\day 5 13.12.14\QueueConsoleApp\QueueConsoleApp\obj\Debug\QueueConsoleApp.exe
+E:\promit\day 5 13.12.14\QueueConsoleApp\QueueConsoleApp\obj\Debug\QueueConsoleApp.pdb
